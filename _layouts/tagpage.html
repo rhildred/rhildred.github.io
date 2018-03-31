@@ -15,7 +15,7 @@
           <small>{{ page.tagline | escape }}</small>
         </h1>
   
-        {% for post in site.posts limit: 10 %}
+        {% for post in site.tags[page.tag] limit: 10 %}
         <div class="row">
           <div class="col-md-7">
             <a href="{{ site.baseurl }}{{ post.url }}">

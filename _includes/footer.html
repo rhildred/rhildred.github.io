@@ -1,14 +1,28 @@
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; {{ site.title }} 2013 -
-            <script>
-                document.write(new Date().getFullYear());
-            </script>
-        </p>
-      </div>
-      <!-- /.container -->
-      <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
-      <script src="{{ '/assets/js/infinite-jekyll.js' | relative_url }}"></script>
-      <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
-  
+        <div class="row">
+            <div class="col-md-8">
+                {% assign tags = site.tags | sort %} {% for tag in tags %}
+                <span class="site-tag">
+                    <a href="/tag/{{ tag | first | slugify }}/" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                        {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+                    </a>
+                </span>
+                {% endfor %}
+            </div>
+            <div class="col-md-4">
+                <p class="m-0 text-right text-white">Copyright &copy; {{ site.title }} 2013 -
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script>
+                </p>
+            </div>
+
+        </div>
+    </div>
+    <!-- /.container -->
+    <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/infinite-jekyll.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+
 </footer>

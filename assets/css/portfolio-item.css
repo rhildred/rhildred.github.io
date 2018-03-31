@@ -17,3 +17,7 @@ body {
 td, th {
   padding-right: .5em;
 }
+
+.site-tag a{
+  color: white;
+}
