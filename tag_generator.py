@@ -14,7 +14,7 @@ import glob
 import os
 
 post_dir = '_posts/'
-tag_dir = 'tag/'
+tag_dir = 'tag_'
 
 filenames = glob.glob(post_dir + '*')
 
