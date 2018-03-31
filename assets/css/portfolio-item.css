@@ -13,3 +13,7 @@ body {
     padding-top: 56px;
   }
 }
+
+td, th {
+  padding-right: .5em;
+}

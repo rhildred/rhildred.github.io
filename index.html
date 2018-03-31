@@ -12,16 +12,18 @@ tagline: '"Creative Active Individuals can only grow up in a society that emphas
         <small>{{ page.tagline | escape }}</small>
       </h1>
 
-      {% for post in site.posts %}
+      {% for post in site.posts limit: 10 %}
       <div class="row">
         <div class="col-md-7">
           <a href="#">
-            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="">
+            <img class="img-fluid rounded mb-3 mb-md-0" src="{{ post.img700x300 }}" alt="{{ post.title }}">
           </a>
         </div>
         <div class="col-md-5">
           <h3>{{ post.title }}</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+          {%- if site.show_excerpts -%}
+          <p>{{ post.excerpt }}</p>
+          {%- endif -%}
           <a class="btn btn-primary" href="{{ site.baseurl }}{{ post.url }}">View Project</a>
         </div>
       </div>
@@ -29,5 +31,6 @@ tagline: '"Creative Active Individuals can only grow up in a society that emphas
 
       <hr />
       {% endfor %}
+      <div class="infinite-spinner"></div>
     </div>
     <!-- /.container -->

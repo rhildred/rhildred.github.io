@@ -8,3 +8,4 @@ description: > # this means to ignore newlines until "github_username:"
 # social links
 github_username:  rhildred
 rss: rss
+show_excerpts: true

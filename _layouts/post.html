@@ -5,34 +5,29 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
     <!-- Page Content -->
     <div class="container">
 
       <!-- Portfolio Item Heading -->
-      <h1 class="my-4">Page Heading
-        <small>Secondary Text</small>
+      <h1 class="my-4">{{ page.title }}
+        <small>{{ page.tagline }}</small>
       </h1>
 
       <!-- Portfolio Item Row -->
       <div class="row">
 
         <div class="col-md-8">
-          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
+          <img class="img-fluid" src="{{ page.img750x500 }}" alt="{{ page.title }}">
         </div>
 
         <div class="col-md-4">
           <h3 class="my-3">Project Description</h3>
           {{ content }}
           <h3 class="my-3">Project Details</h3>
-          <ul>
-            <li>Lorem Ipsum</li>
-            <li>Dolor Sit Amet</li>
-            <li>Consectetur</li>
-            <li>Adipiscing Elit</li>
-          </ul>
+          <table>
+            <tr><th>Audience:</th><td>{{ page.audience }}</td></tr>
+            <tr><th>Language:</th><td>{{ page.language }}</td></tr>
+          </table>
         </div>
 
       </div>
@@ -40,32 +35,16 @@
 
       <!-- Related Projects Row -->
       <h3 class="my-4">Related Projects</h3>
-
       <div class="row">
-
+          {% for post in site.posts limit:4 %}
+          {%- if post.title != page.title -%}
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img class="img-fluid" src="{{ post.img500x300 }}" alt="{{ post.title }}">
           </a>
         </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
-
-        <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
-            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
-        </div>
+        {%- endif -%}
+        {% endfor %}
 
       </div>
       <!-- /.row -->
