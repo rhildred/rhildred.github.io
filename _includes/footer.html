@@ -1,6 +1,10 @@
-<footer>
+<footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
+        <p class="m-0 text-center text-white">Copyright &copy; {{ site.title }} 2013 -
+            <script>
+                document.write(new Date().getFullYear());
+            </script>
+        </p>
       </div>
       <!-- /.container -->
       <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
