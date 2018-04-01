@@ -16,8 +16,13 @@ body {
 
 td, th {
   padding-right: .5em;
+  vertical-align: top;
 }
 
 .site-tag a{
   color: white;
+}
+
+#disqus_thread{
+  margin-top: 2em;
 }
