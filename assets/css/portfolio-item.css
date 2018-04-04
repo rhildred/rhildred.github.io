@@ -31,3 +31,16 @@ td, th {
   display:inline-block;
   margin-bottom: 0;
 }
+
+#tipue_search_input.form-control.ui-autocomplete-input{
+  border-radius: 4px;
+  padding: .4rem .75rem;
+}
+
+.wrapper #tipue_search_content{
+  margin: 0 0 1em;
+}
+
+form.navbar-form{
+  margin: 0 1em;
+}

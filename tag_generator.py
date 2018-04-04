@@ -45,7 +45,7 @@ for tag in old_tags:
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\ntagline: \'"Creative Active Individuals can only grow up in a society that emphasizes learning instead of teaching." - Chris Alexander\'\n---\n'
+    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\nexclude_from_search: true\ntagline: \'"Creative Active Individuals can only grow up in a society that emphasizes learning instead of teaching." - Chris Alexander\'\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())
