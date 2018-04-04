@@ -13,3 +13,7 @@ show_excerpts: true
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.html
+tipue_search:
+  include:
+    pages: true
+

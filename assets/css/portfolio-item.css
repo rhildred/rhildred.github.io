@@ -26,3 +26,8 @@ td, th {
 #disqus_thread{
   margin-top: 2em;
 }
+
+.navbar-form .form-group .form-control, .navbar-form .form-group{
+  display:inline-block;
+  margin-bottom: 0;
+}
