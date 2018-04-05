@@ -44,3 +44,9 @@ td, th {
 form.navbar-form{
   margin: 0 1em;
 }
+
+div.About .navbar-nav a.nav-link[href*="about"], div.Calendar .navbar-nav a.nav-link[href*="calendar"] {
+  color: white;
+  pointer-events: none;
+  cursor: default;
+}
