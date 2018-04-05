@@ -9,7 +9,7 @@
     <div class="container">
 
       <!-- Portfolio Item Heading -->
-      <h1 class="my-4">{{ page.title }}
+      <h1 class="my-4"><a href="{{ page.link_to_site }}" target="_blank">{{ page.title }}</a>
         <small>{{ page.tagline }}</small>
       </h1>
 
@@ -17,7 +17,9 @@
       <div class="row">
 
         <div class="col-md-8">
+          <a href="{{ page.link_to_site }}" target="_blank">
           <img class="img-fluid" src="{{ page.img750x500 }}" alt="{{ page.title }}">
+        </a>
         </div>
 
         <div class="col-md-4">
