@@ -50,3 +50,7 @@ div.About .navbar-nav a.nav-link[href*="about"], div.Calendar .navbar-nav a.nav-
   pointer-events: none;
   cursor: default;
 }
+
+h1.my-4 a{
+  color: black;
+}
