@@ -8,6 +8,7 @@ img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v15225
 excerpt: "Student's hairdresser."
 audience: post degree certificate capstone
 language: Wordpress PHP Slim
+repository: "https://github.com/rhildred/wp-slim-framework"
 ---
 
 A student got speaking with their hairdresser. The hairdresser had been promoting the business on Face Book. The student convinced the hairdresser to get a website so that customers could book appointments without calling in and interrupting someone else's appointment. Customers can book via facebook messenger or with the wordpress site the students created. 

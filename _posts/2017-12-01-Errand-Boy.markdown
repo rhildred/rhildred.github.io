@@ -9,6 +9,7 @@ excerpt: "Odd jobs for Laurier Students."
 audience: CP202 Wilfrid Laurier elective.
 language: html5, github pages
 link_to_site: "https://charlesbc.github.io/"
+repository: "https://github.com/rhildred/CP202Assignment5"
 ---
 
 Students working in teams of 2 came up with their own idea for the site. This was assignment 5. Assignments 1-4 related to the user requirements and experience that they were trying to fulfill. Students were encouraged to find a small target user segment. These students picked odd jobs for their Laurier student peer group.
