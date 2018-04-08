@@ -2,9 +2,9 @@
 layout: post
 title:  "Errand Boy"
 tags: html5 CP202 github ghpages
-img750x500: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy750x500_xwe0qa.png"
-img700x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy700x300_gyj0gn.png"
-img500x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy500x300_ok88lm.png"
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy750x500_xwe0qa.png"
+img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy700x300_gyj0gn.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522942247/ErrandBoy500x300_ok88lm.png"
 excerpt: "Odd jobs for Laurier Students."
 audience: CP202 Wilfrid Laurier elective.
 language: html5, github pages

@@ -2,9 +2,9 @@
 layout: post
 title:  "My Favourite Day"
 tags: wordpress subtheme shortcode plugin
-img750x500: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138760/FavouriteDay750x500_pdni4p.png"
-img700x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138736/FavouriteDay700x300_yyakkn.png"
-img500x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138736/FavouriteDay500x300_x5rfk3.png"
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138760/FavouriteDay750x500_pdni4p.png"
+img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138736/FavouriteDay700x300_yyakkn.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523138736/FavouriteDay500x300_x5rfk3.png"
 excerpt: "My Favourite Day ... A favourite midterm."
 audience: Post degree certificate program PROG8020
 language: wordpress php plugin subtheme

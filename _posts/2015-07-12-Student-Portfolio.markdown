@@ -2,9 +2,9 @@
 layout: post
 title:  "Student Portfolio"
 tags: html5 github ghpages
-img750x500: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975712/StudentPortfolio750x500_bjnsqn.png"
-img700x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975712/StudentPortfolio700x300_xqxyel.png"
-img500x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975711/StudentPortfolio500x300_aioiqw.png"
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975712/StudentPortfolio750x500_bjnsqn.png"
+img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975712/StudentPortfolio700x300_xqxyel.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522975711/StudentPortfolio500x300_aioiqw.png"
 excerpt: "Portfolio on Github Pages ... social media for software developers."
 audience: Various
 language: html5, github pages

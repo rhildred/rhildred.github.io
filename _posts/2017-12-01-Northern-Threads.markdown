@@ -2,9 +2,9 @@
 layout: post
 title:  "Northern Threads"
 tags: html5 CP202 github ghpages
-img750x500: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads750x500_zt8i5q.png"
-img700x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads700x300_qkouj2.png"
-img500x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads500x300_yvqat3.png"
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads750x500_zt8i5q.png"
+img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads700x300_qkouj2.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1522973943/NorthernThreads500x300_yvqat3.png"
 excerpt: "Businesswear for the Canadian Entrepreneur."
 audience: CP202 Wilfrid Laurier elective.
 language: html5, github pages
