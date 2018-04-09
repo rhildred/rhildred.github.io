@@ -4,7 +4,7 @@ title:  "Reading Readiness"
 tags: html5 easel.js php  mysql api-framework create.js
 img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523222846/ReadingReadiness750x500_qbarmw.png"
 img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523222846/ReadingReadiness700x300_luvr9d.png"
-img500x300: "http://res.cloudinary.com/salesucation-com-inc/image/upload/v1523222846/ReadingReadiness500x300_xbmdoq.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523222846/ReadingReadiness500x300_xbmdoq.png"
 excerpt: "Serious games to help pre-reader's eyes track from left to right."
 audience: Second career program
 language: html5, easel.js javascript php Martin Bean's api-framework mysql

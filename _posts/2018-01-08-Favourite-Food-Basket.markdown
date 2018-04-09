@@ -5,7 +5,7 @@ tags: wordpress subtheme shortcode plugin slim
 img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523146135/FavouriteFoodBaskets750x500_xraj9x.png"
 img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523146135/FavouriteFoodBaskets700x300_vv03r8.png"
 img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523146135/FavouriteFoodBaskets500x300_lb3vjv.png"
-excerpt: "My Favourite Food Basket ... A less favourite final exam."
+excerpt: "... A less favourite final exam."
 audience: Post degree certificate program PROG8020
 language: wordpress slim php plugin subtheme
 link_to_site: "https://favouritefoodbasket.ysaas.ca/"
