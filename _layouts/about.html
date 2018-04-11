@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+{%- include head.html -%}
+
+<body>
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Content">
+    <!-- Page Content -->
+    <div id="pictureOnAbout" class="container">
+
+
+      <!-- Portfolio Item Row -->
+        <div class="float-md-left">
+          <a href="{{ page.link_to_site }}" target="_blank">
+            <img class="img-fluid" src="{{ page.img750x500 }}" alt="{{ page.title }}">
+          </a>
+        </div>
+        {{ content }}
+
+      <!-- /.row -->
+      {% include disqus.html %}
+      <!-- Recent Projects Row -->
+      <h3 class="my-4">Recent Projects</h3>
+      <div class="row">
+        {% for post in site.posts limit:4 %}
+        <div class="col-md-3 col-sm-6 mb-4">
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <img class="img-fluid" src="{{ post.img500x300 }}" alt="{{ post.title }}">
+          </a>
+        </div>
+        {% endfor %}
+
+      </div>
+      <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+  </main>
+  {%- include footer.html -%}
+</body>
+
+</html>

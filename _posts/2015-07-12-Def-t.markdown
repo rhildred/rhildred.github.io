@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Def-t"
+tags: wordpress vlog CAPSTONE
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523468836/def-t750x500_gv1zbk.png"
+img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523468835/def-t700x300_k8lg79.png"
+img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523468835/def-t500x300_cuq2zq.png"
+excerpt: "Online tea shop backup for bricks and mortar Canadian Cultural Center of the Deaf"
+audience: second career
+language: wordpress deployed first on Openshift 2 then GoDaddy
+link_to_site: "https://def-t.ca/"
+repository: "https://github.com/rhildred/wordpress-heroku"
+---
+
+Someone in my second career class had been a counsellor for many years at the Ernest C. Drury School for the Deaf in Milton. For their CAPSTONE they reconnected by making a website for the Def-t shop which was being launched at the same time. A number of students from the class worked on the site and the videos. Towards the end the students and I went down for a cup of tea.

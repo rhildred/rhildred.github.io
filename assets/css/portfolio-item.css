@@ -54,3 +54,11 @@ div.About .navbar-nav a.nav-link[href*="about"], div.Calendar .navbar-nav a.nav-
 h1.my-4 a{
   color: black;
 }
+
+#pictureOnAbout{
+  margin-top: 1em;
+}
+
+#pictureOnAbout .float-md-left{
+  margin: 0 2em 1em 0;
+}
