@@ -25,7 +25,7 @@
               </form>
           {%- for path in page_paths -%} {%- assign my_page = site.pages | where: "path", path | first -%} 
           {%- if my_page.title  -%}
-          {%- unless my_page.url == "/" or my_page.url contains "tag" or my_page.url contains "search" -%}
+          {%- unless my_page.url == "/" or my_page.url contains "tag" or my_page.url contains "search" or my_page.url contains "articles" or my_page.url contains "courses" -%}
 
           <li class="nav-item">
             <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
