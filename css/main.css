@@ -1,0 +1,50 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body, .bookmark {
+	padding-top: 3.5em;
+	padding-bottom: 1em;
+}
+
+@media all and (min-width : 768px) {
+	/* Styles */
+	body, .bookmark {
+		padding-top: 7em;
+	}
+}
+
+@media all and (min-width : 1024px) {
+	/* Styles */
+	body, .bookmark {
+		padding-top: 3.5em;
+	}
+}
+
+div.contact a[href$="contact.html"],div.calendar a[href$="calendar.html"],div.pastcourses a[href$="pastcourses.html"],div.index a[href$="."]
+	{
+	color: white;
+	pointer-events: none;
+	cursor: default;
+    background-color: #080808;
+
+}
+
+img, iframe {
+	max-width: 100%;
+}
+
+.searchResult:not(:first-child) {
+border-top: 2px solid silver;
+margin-top: 2em;
+}
+
+table td, table th {
+    padding-right: 3em; /* cellpadding */
+	padding-bottom: .5em;
+}
+
+table{
+	margin-bottom: 1em;
+}
+
+.highlighted {
+     background-color:yellow;
+}
