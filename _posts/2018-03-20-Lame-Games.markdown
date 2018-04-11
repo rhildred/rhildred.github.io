@@ -2,7 +2,7 @@
 layout: post
 title:  "Lame Games"
 tags: python dotnet .net core node.js twilio sms messenger
-img750x500: "https:/res.cloudinary.com/salesucation-com-inc/image/upload/v1523217930/twiliobot750x500_z7anzp.png"
+img750x500: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523217930/twiliobot750x500_z7anzp.png"
 img700x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523217930/twiliobot700x300_wxosm4.png"
 img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v1523217930/twiliobot500x300_bfbwll.png"
 excerpt: "Choose your own adventure, bulls and cows and other text based games."
