@@ -44,8 +44,8 @@ for tag in old_tags:
     os.remove(tag)
 
 for tag in total_tags:
-    tag = re.sub("^\.", "", tag)
-    tag_filename = tag_dir + tag.lower().replace('.', '-') + '.md'
+    sTag = re.sub("^\.", "", tag)
+    tag_filename = tag_dir + sTag.lower().replace('.', '-') + '.md'
     f = open(tag_filename, 'a')
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\nexclude_from_search: true\ntagline: \'"Creative Active Individuals can only grow up in a society that emphasizes learning instead of teaching." - Chris Alexander\'\n---\n'
     f.write(write_str)
