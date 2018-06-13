@@ -3,12 +3,12 @@
 #MB 215 - BR: Software Development - Winter 2016
 
 |&nbsp;|&nbsp;|
-|---|---|---|
+|---|---|
 |**Instructor:**|Rich Hildred |
 |**Office:**|SCJ 311 |
 |**Phone:**|519-594-0900|
 |**Email:**|rhildred@wlu.ca|
-|||
+||
 |**Class Times:**|Monday/Wednesday 8:30-9:50|
 |**Location:**|97 Dalhousie DAL007|
 |**Office Hours:**|Wednesday/Friday 4-5:00 pm|
@@ -39,6 +39,7 @@ Information will often be given in class about upcoming classes, test informatio
 You are expected to be in class, but I understand that situations, such as illness or a death in the family, do arise. If you are going to miss class, please email me or tell me in advance.
 
 ##Evaluation
+
 |Item|due|percentage|
 |---|---|---|
 |Project 1 - Java Game|January 29|15%|
@@ -47,21 +48,25 @@ You are expected to be in class, but I understand that situations, such as illne
 |Final|To Be Scheduled|35%|
 
 ##Mid-term Examination
+
 The mid-term examination will be held on Wednesday, February 24th during class time. It will cover all material up to software development models and methodologies (expected to be material covered by start of reading week).
 
 The mid-term examination will not be offered at any other time. If you miss the mid-term for health or bereavement reasons you must provide appropriate documentation as per the academic calendar. If appropriate documentation is provided, the weighting of the final examination will be increased to 55% in consideration of the missed mid-term. If the mid-term is missed for any other reason, a mark of 0 will be given.
 
 ##Final Examination
+
 The final exam will cover all of the material in the course. The final exam will be held during the final exam period, Apr 7 - Apr 23, 2016, and will be scheduled by the Registrar’s Office. You are expected to be available during the entire exam period. If you have more than one exam scheduled for the same time, or if you have three or more exams scheduled to start and end within a 24-hour period, the university will defer one of your exams to Slip Day. The university chooses which exam will be deferred. No other alternate arrangements will be made for exams. If you miss an exam for any reason, including weather, health issues, or a death in the family, you will be required to submit a petition to the Brantford Faculty Petitions Committee in order to write the exam at a later date. If your petition is successful, the exam will be written at some point during the two following semesters.
 
 For complete university policy and procedure information regarding final examinations please see the Undergraduate Academic Calendar.
 
 ##MyLearningSpace
+
 The course has a MyLearningSpace area. It will be used for posting the course outline, assignments, groups, etc, as well as any announcements such as new or revised readings or class cancellations. Written assignments will be submitted through MyLearningSpace, and grades will be posted there as well.
 
 **Do not email me through MyLearningSpace.** Emails sent through MyLearningSpace do not go to the recipient's Laurier email account, and I cannot guarantee that I will check MyLearningSpace regularly.
 
 ##Contacting the Instructor
+
 The best option for contacting me is to drop by my office or to set up an appointment, between 4:00 pm and 5:00 pm Wednesdays and Fridays. I am always happy to meet with you if you have questions or concerns.
 
 Do not expect responses to email on the weekends or after 5:00 pm during the week. If you have questions about assignments or the exam, you need to be organized enough that you can ask them during regular business hours.
@@ -79,6 +84,7 @@ Audio recording of lectures is permitted for the purposes of personal studying o
 If I see a cell phone, laptop, iPad, mp3 player, or any other similar device in your hand or near you during a test or an examination, you will automatically receive a 0.
 
 ##Academic Integrity
+
 Please note that students involved in academic dishonesty may receive a zero grade on the course and even notation of academic dishonesty on their transcripts. In this course, academic dishonesty includes copying or use of unauthorized aids in all written work; plagiarism; submission of work generated for another course without prior clearance by the instructor of this course or aiding and abetting another student's dishonesty. Wilfrid Laurier uses software that can check for plagiarism. You will be required to submit your work in electronic form and have it checked for plagiarism
 
 ![Wilfrid Laurier University Student's Union Services](https://res.cloudinary.com/salesucation-com-inc/image/upload/c_scale,w_350/v1451701127/6354fc95-9543-4ccc-b729-dbe23d585ebd-large_thygaz.png "Wilfrid Laurier University Student's Union Services")
