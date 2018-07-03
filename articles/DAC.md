@@ -30,6 +30,7 @@ My youngest son, Joel, and I nearly dropped the couch moving it. Sadly the books
 |Bose amplified speakers	|[read more ...](https://www.amazon.ca/Bose-Companion-Multimedia-Speakers-3-5mm/dp/B00CD1PTF0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1530645854&sr=1-1&keywords=bose+computer+speakers)|	109.99|
 |Vesa wall mount	|[read more ...](https://www.amazon.ca/dp/B00L1FMBQ4/ref=pe_3034960_236394800_TE_dp_2)|	31.82|
 |Samsung Vesa mount monitor	|[read more ...](https://www.amazon.ca/Samsung-S22F352FHN-Bezel-Monitor-1920x1080/dp/B01F9UBTMI/ref=sr_1_10?ie=UTF8&qid=1530408711&sr=8-10&keywords=samsung+vesa+monitor)|	179.99|
+||||
 |Total|| 413.04|
 
 
