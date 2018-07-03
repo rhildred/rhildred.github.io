@@ -18,12 +18,12 @@ Things got real again, we moved and we "cut the cable." No cable TV and no landl
 My youngest son, Joel, and I nearly dropped the couch moving it. Sadly the bookshelf didn't survive the move. After buying a house, moving again and [wall mounting](https://www.amazon.ca/dp/B00L1FMBQ4/ref=pe_3034960_236394800_TE_dp_2) system 1 in our bedroom I was ready for system 2. To prepare for system 2 we replaced the HDMI switch in system 1 with an [hdmi audio splitter](https://www.amazon.ca/UGREEN-Extractor-Splitter-Converter-Chromecast/dp/B01LKOTRNA/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530407606&sr=1-4&keywords=ugreen+hdmi+audio+extractor) and a female to female [hdmi coupler](https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter). The [bluray player](https://www.amazon.ca/Sony-BDPS6500-Upscaling-Blu-ray-Player/dp/B00X6AGWRQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1530409817&sr=1-1&keywords=BDPS6500) with a [Chromecast](https://store.google.com/product/chromecast_2015). The first big test of the setup was watching NASA's coverage of the eclipse last summer with my Grandson. We subscribed to ~$10 Netflix, ~$10 Crave TV and ~$10 CBC TV premium and find that we have all of the content that we need. We probably miss network TV (other than CBC) a little, but we don't miss the expense. CBC had good olympics coverage and hockey games. I take my grandson to Rangers games, go to concerts and buy media for much less than we were paying for cable.
 
 
-###Bedroom System 1		
+### Bedroom System 1		
 
-|Item|Link|Price|
-|---|---|--->|
-|Chromecast	|https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001|	40.99|
-|Female to female HDMI coupler	|https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter|	5.98|
+| Item | Link | Price |
+| --- | --- | ---: |
+| Chromecast	| https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001 |	40.99 |
+| Female to female HDMI coupler	| https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter |	5.98 |
 |HDMI Audio Splitter	|https://www.amazon.ca/UGREEN-Extractor-Splitter-Converter-Chromecast/dp/B01LKOTRNA/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530407606&sr=1-4&keywords=ugreen+hdmi+audio+extractor|	28.99
 |3.5mm male to male	|https://www.amazon.ca/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73IN2/ref=sr_1_6?s=electronics&ie=UTF8&qid=1530645593&sr=1-6&keywords=3.5mm+male+to+male|	6.99|
 |HDMI Cable	|https://www.amazon.ca/HDMI-Cable-HDTV-Gold-Plated/dp/B00474YRE0/ref=sr_1_2_sspa?s=electronics&ie=UTF8&qid=1530645780&sr=1-2-spons&keywords=hdmi+cable+1+foot&psc=1|	8.29|
