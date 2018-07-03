@@ -22,7 +22,7 @@ My youngest son, Joel, and I nearly dropped the couch moving it. Sadly the books
 
 | Item | Link | Price |
 | --- | --- | ---: |
-| Chromecast	| https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001 |	40.99 |
+| Chromecast	| [read more ...](https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001) |	40.99 |
 | Female to female HDMI coupler	| https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter |	5.98 |
 |HDMI Audio Splitter	|https://www.amazon.ca/UGREEN-Extractor-Splitter-Converter-Chromecast/dp/B01LKOTRNA/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530407606&sr=1-4&keywords=ugreen+hdmi+audio+extractor|	28.99
 |3.5mm male to male	|https://www.amazon.ca/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73IN2/ref=sr_1_6?s=electronics&ie=UTF8&qid=1530645593&sr=1-6&keywords=3.5mm+male+to+male|	6.99|
