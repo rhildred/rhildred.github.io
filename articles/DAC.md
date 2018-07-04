@@ -22,14 +22,14 @@ My youngest son, Joel, and I nearly dropped the couch moving it. Sadly the books
 
 | Item | Link | Price |
 | --- | --- | ---: |
-| Chromecast	| [read more ...](https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001) |	40.99 |
-| Female to female HDMI coupler	| [read more ...](https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter) |	5.98 |
-|HDMI Audio Splitter	|[read more ...](https://www.amazon.ca/UGREEN-Extractor-Splitter-Converter-Chromecast/dp/B01LKOTRNA/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530407606&sr=1-4&keywords=ugreen+hdmi+audio+extractor)|	28.99
-|3.5mm male to male	|[read more ...](https://www.amazon.ca/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73IN2/ref=sr_1_6?s=electronics&ie=UTF8&qid=1530645593&sr=1-6&keywords=3.5mm+male+to+male)|	6.99|
-|HDMI Cable	|[read more ...](https://www.amazon.ca/HDMI-Cable-HDTV-Gold-Plated/dp/B00474YRE0/ref=sr_1_2_sspa?s=electronics&ie=UTF8&qid=1530645780&sr=1-2-spons&keywords=hdmi+cable+1+foot&psc=1)|	8.29|
-|Bose amplified speakers	|[read more ...](https://www.amazon.ca/Bose-Companion-Multimedia-Speakers-3-5mm/dp/B00CD1PTF0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1530645854&sr=1-1&keywords=bose+computer+speakers)|	109.99|
-|Vesa wall mount	|[read more ...](https://www.amazon.ca/dp/B00L1FMBQ4/ref=pe_3034960_236394800_TE_dp_2)|	31.82|
-|Samsung Vesa mount monitor	|[read more ...](https://www.amazon.ca/Samsung-S22F352FHN-Bezel-Monitor-1920x1080/dp/B01F9UBTMI/ref=sr_1_10?ie=UTF8&qid=1530408711&sr=8-10&keywords=samsung+vesa+monitor)|	179.99|
+| Chromecast	| [staples](https://www.staples.ca/en/Google-Chromecast-Media-Player/product_1917544_1-CA_1_20001) |	40.99 |
+| Female to female HDMI coupler	| [amazon](https://www.amazon.ca/VCE-Adapter-Coupler-Resolution-Connector/dp/B01N5Y7E2O/ref=sr_1_3?ie=UTF8&qid=1530644833&sr=8-3&keywords=female+to+female+hdmi+adapter) |	5.98 |
+|HDMI Audio Splitter	|[amazon](https://www.amazon.ca/UGREEN-Extractor-Splitter-Converter-Chromecast/dp/B01LKOTRNA/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530407606&sr=1-4&keywords=ugreen+hdmi+audio+extractor)|	28.99
+|3.5mm male to male	|[amazon](https://www.amazon.ca/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73IN2/ref=sr_1_6?s=electronics&ie=UTF8&qid=1530645593&sr=1-6&keywords=3.5mm+male+to+male)|	6.99|
+|HDMI Cable	|[amazon](https://www.amazon.ca/HDMI-Cable-HDTV-Gold-Plated/dp/B00474YRE0/ref=sr_1_2_sspa?s=electronics&ie=UTF8&qid=1530645780&sr=1-2-spons&keywords=hdmi+cable+1+foot&psc=1)|	8.29|
+|Bose amplified speakers	|[amazon](https://www.amazon.ca/Bose-Companion-Multimedia-Speakers-3-5mm/dp/B00CD1PTF0/ref=sr_1_1?s=electronics&ie=UTF8&qid=1530645854&sr=1-1&keywords=bose+computer+speakers)|	109.99|
+|Vesa wall mount	|[amazon](https://www.amazon.ca/dp/B00L1FMBQ4/ref=pe_3034960_236394800_TE_dp_2)|	31.82|
+|Samsung Vesa mount monitor	|[amazon](https://www.amazon.ca/Samsung-S22F352FHN-Bezel-Monitor-1920x1080/dp/B01F9UBTMI/ref=sr_1_10?ie=UTF8&qid=1530408711&sr=8-10&keywords=samsung+vesa+monitor)|	179.99|
 ||||
 |Total|| 413.04|
 
