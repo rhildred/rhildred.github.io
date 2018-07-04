@@ -45,7 +45,7 @@ My childhood friend and I have been going camping with our kids every father's d
 
 | Item | Link | Price |
 | --- | --- | ---: |
-| good bluetooth speaker	| [mine](https://www.amazon.ca/Bose-Sound-Color-Bluetooth-Speaker/dp/B01HETFQKS/ref=sr_1_5?ie=UTF8&qid=1530719227&sr=8-5&keywords=bose+bluetooth&dpID=51XwauJT97L&preST=_SY300_QL70_&dpSrc=srch), [top 10 article (pick Marshall)](https://www.techradar.com/news/audio/portable-audio/10-best-portable-speakers-1069079) |	169 |
+| good bluetooth speaker	| [mine on amazon](https://www.amazon.ca/Bose-Sound-Color-Bluetooth-Speaker/dp/B01HETFQKS/ref=sr_1_5?ie=UTF8&qid=1530719227&sr=8-5&keywords=bose+bluetooth&dpID=51XwauJT97L&preST=_SY300_QL70_&dpSrc=srch), [top 10 article (pick Marshall)](https://www.techradar.com/news/audio/portable-audio/10-best-portable-speakers-1069079) |	169 |
 | micro sd for your phone	| [amazon](https://www.amazon.ca/SanDisk-Ultra-microSDXC-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/ref=sr_1_3?ie=UTF8&qid=1530719338&sr=8-3&keywords=micro+sd&dpID=41upmOmdz1L&preST=_SX300_QL70_&dpSrc=srch)	| 49.84 |
 ||||
 | optional adapter for analog and digital sound	| [amazon](https://www.amazon.ca/Bluetooth-Transmitter-HomeSpot-Headphones-Simultaneously/dp/B00QV77YIC/ref=sr_1_7?s=electronics&ie=UTF8&qid=1530718697&sr=1-7&keywords=toslink+bluetooth+transmitter&dpID=41mDWCVG82L&preST=_SY300_QL70_&dpSrc=srch)	| 49.99 |
