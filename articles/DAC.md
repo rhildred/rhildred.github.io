@@ -48,7 +48,7 @@ My childhood friend and I have been going camping with our kids every father's d
 | good bluetooth speaker	| [mine on amazon](https://www.amazon.ca/Bose-Sound-Color-Bluetooth-Speaker/dp/B01HETFQKS/ref=sr_1_5?ie=UTF8&qid=1530719227&sr=8-5&keywords=bose+bluetooth&dpID=51XwauJT97L&preST=_SY300_QL70_&dpSrc=srch), [top 10 article (pick Marshall)](https://www.techradar.com/news/audio/portable-audio/10-best-portable-speakers-1069079) |	169 |
 | micro sd for your phone	| [amazon](https://www.amazon.ca/SanDisk-Ultra-microSDXC-Adapter-SDSQUAR-128G-GN6MA/dp/B073JYC4XM/ref=sr_1_3?ie=UTF8&qid=1530719338&sr=8-3&keywords=micro+sd&dpID=41upmOmdz1L&preST=_SX300_QL70_&dpSrc=srch)	| 49.84 |
 ||||
-| optional adapter for analog and digital sound	| [amazon](https://www.amazon.ca/Bluetooth-Transmitter-HomeSpot-Headphones-Simultaneously/dp/B00QV77YIC/ref=sr_1_7?s=electronics&ie=UTF8&qid=1530718697&sr=1-7&keywords=toslink+bluetooth+transmitter&dpID=41mDWCVG82L&preST=_SY300_QL70_&dpSrc=srch)	| 49.99 |
+| optional adapter for analog and digital sound	| [amazon](https://www.amazon.ca/Avantree-Latency-Bluetooth-Transmitter-Wireless/dp/B077MXFJGQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1530797387&sr=1-1&keywords=audikast&dpID=51PJ-83cjPL&preST=_SY300_QL70_&dpSrc=srch)	| 59.99 |
 ||||		
 | record player with usb and built in preamp	| [amazon](https://www.amazon.ca/Sony-PS-LX300USB-Stereo-Turntable-Black/dp/B0015HOFZI/ref=sr_1_1?ie=UTF8&qid=1530719587&sr=8-1&keywords=sony+usb+record+player&dpID=41dHHCNK5SL&preST=_SY300_QL70_&dpSrc=srch)	| 128 |
 | wire to connect female rca to 3.5mm optional adaptor	| [amazon](https://www.amazon.ca/UGREEN-Splitter-Smartphones-Tablets-Theater/dp/B00B2HP1MW/ref=sr_1_5?ie=UTF8&qid=1530719793&sr=8-5&keywords=rca+female+to+3.5+mm+male&dpID=41nF0muiNnL&preST=_SY300_QL70_&dpSrc=srch)	| 10 |
@@ -63,6 +63,6 @@ My childhood friend and I have been going camping with our kids every father's d
 | longer hdmi cable to connect hdmi switch to tv	| [amazon](https://www.amazon.ca/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=sr_1_4?ie=UTF8&qid=1530720708&sr=8-4&keywords=3+foot+hdmi+cable&dpID=41mJoLIiC7L&preST=_SX300_QL70_&dpSrc=srch)	| 7.99 |
 | wall mount for tv (if needed)	| [amazon](https://www.amazon.ca/dp/B00L1FMBQ4/ref=pe_3034960_236394800_TE_dp_2)	| 31.82 |
 ||||		
-| total ||		947.59 |
+| total ||		957.59 |
 
 I went to the stereo store in Brantford not knowing what I wanted. He correctly steered me away from an AV amplifier. We like music at least as much as movies and the integrated amplifier and speakers sound great with the record player, a [bluetooth dongle](https://www.amazon.ca/dp/B009OBCAW2/ref=pe_3034960_236394800_TE_dp_2) on aux and the digital inputs on tuner.
