@@ -8,7 +8,6 @@ img500x300: "https://res.cloudinary.com/salesucation-com-inc/image/upload/v15231
 excerpt: "... A favourite midterm."
 audience: Post degree certificate program PROG8020
 language: wordpress php plugin subtheme
-link_to_site: "https://favouriteday.ysaas.ca/"
 repository: "https://github.com/rhildred/wordpress-heroku"
 ---
 
