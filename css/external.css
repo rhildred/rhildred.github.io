@@ -15,4 +15,8 @@ table{
 	page-break-inside: avoid;
 }
 
+p{
+	font-size: 2em;
+}
+
 
